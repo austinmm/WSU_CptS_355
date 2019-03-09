@@ -1,4 +1,4 @@
-# WSU_CptS_355
+# CptS 355: Programming Language Design
 ### 1. This course will help students to achieve the following objectives:
   * Understand components of programming languages including control structures, names, types, objects, exceptions, etc.
   * Understand different kinds of programming language such as imperative, functional and logic languages.
